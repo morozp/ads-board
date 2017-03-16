@@ -1,0 +1,28 @@
+{
+  "name": "ads",
+  "version": "1.0.0",
+  "description": "ads board",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morozp/ads-board.git"
+  },
+  "keywords": [
+    "ads",
+    "board",
+    "simple",
+    "web",
+    "client",
+    "react",
+    "redux"
+  ],
+  "author": "Maroz Petr petr.dev@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/morozp/ads-board/issues"
+  },
+  "homepage": "https://github.com/morozp/ads-board#readme"
+}
